@@ -363,7 +363,7 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # Ignore files
-3DEngine.sln
-.gitattributes
-.gitignore
-/stb/
+/3DEngine.sln
+/.gitattributes
+/.gitignore
+/3DEngine/stb/
